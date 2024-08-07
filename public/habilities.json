@@ -1,0 +1,20 @@
+[
+    {"name": "HTML", "color": "#E34F26"},
+    {"name": "CSS", "color": "#1572B6"},
+    {"name": "JavaScript", "color": "#F7DF1E"},
+    {"name": "React", "color": "#61DAFB"},
+    {"name": "TailwindCSS", "color": "#38B2AC"},
+    {"name": "NodeJS", "color": "#339933"},
+    {"name": "Express", "color": "#E7CF1E"}, 
+    {"name": "Python", "color": "#3776AB"},
+    {"name": "Tkinter", "color": "#FFCA28"}, 
+    {"name": "MongoDB", "color": "#47A248"},
+    {"name": "SQLServer", "color": "#CC2927"},
+    {"name": "Excel", "color": "#217346"},
+    {"name": "Github", "color": "#261258"},
+    {"name": "Azure", "color": "#0078D4"},
+    {"name": "Powershell", "color": "#012456"},
+    {"name": "Bash", "color": "#4EAA25"},
+    {"name": "Linux", "color": "#FCC624"}, 
+    {"name": "C", "color": "#00599D"}
+]

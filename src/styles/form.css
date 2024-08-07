@@ -1,0 +1,39 @@
+form {
+    display: grid;
+    align-items: center;
+    margin-top: 20px;
+    width: 70%;
+    margin: 3% auto;
+    justify-items: stretch;
+    gap:1em;
+}
+
+input {
+    color: white;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #21252B;
+    border: none;
+    outline: none;
+}
+textarea {
+    color: white;
+    height: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #21252B;
+    border: none;
+    outline: none;
+    resize: vertical;
+}
+button {
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #61AFEF;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
