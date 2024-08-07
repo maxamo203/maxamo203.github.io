@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Validador de Número VIN",
+        "description": "Una pagina web hecho con HTML, CSS y JavaScript vanilla que valida un número VIN de un vehiculoi vuhrikvyahisv ivaushfvg aiskryugv aisdrvghsalfkiuv hilrsdkugvhysf lakvhriuygl klvaus vlsakudfakslrufhg sifuyhgasdklv rivysa klfvhgasriyvgsckhvb asirvg sjkhbvisargv isdvg skvbs ivbhsc kvbislh kshbv ibv kcviasghvishksdbvslivsldkbvkscvb sdkvbsi vi sd visd viaslghv i ue valida un número VIN de un vehiculoi vuhrikvyahisv vlsakudfakslrufhg ",
+        "image": "imagesProjects/vin.png",
+        "link": "https://validador-vin.netlify.app/",
+        "habilities": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "name": "Autos Artesanales",
+        "description": "Pagina web hecha en React que muestra autos artesanales, los cuales son publicados por los usuarios",
+        "image": "imagesProjects/image2.png",
+        "link": "https://autos-artesanales.netlify.app/",
+        "habilities": ["React", "HTML", "CSS", "JavaScript", "TailwindCSS", "NodeJS", "Express", "MongoDB", "Github"]
+    },
+    {
+        "name": "Tomar Varias Fotos",
+        "description": "Aplicacion hecha en Python con Tkinter que toma varias fotos de distintos momentos para compararlas",
+        "image": "imagesProjects/image2.png",
+        "habilities": ["Python", "Tkinter"]
+    },
+    {
+        "name": "Excel Automatico",
+        "description": "Aplicacion hecha en Python con Tkinter que toma varias fotos de distintos momentos para compararlas",
+        "image": "imagesProjects/image.png",
+        "habilities": ["Excel"]
+    }
+]
