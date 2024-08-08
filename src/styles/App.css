@@ -292,7 +292,6 @@ a {
 }
 
 #habilityContainer{
-  display: flex;
   justify-content: center;
   flex-wrap: wrap;
   gap: 1.5em;
@@ -300,6 +299,13 @@ a {
   width: 90%;
   margin: 0 auto;
   padding-bottom: 2em;
+  display: none;
+}
+#mostrarHabilidades{
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  padding-bottom: 3%;
 }
 .hability{
   background-color: #21252B;
@@ -308,6 +314,9 @@ a {
   transition: all 0.5s;
   cursor: pointer;
   text-shadow: black 0px 0px 5px;
+}
+.habilityContainerfull{
+  display: flex !important;
 }
 @media (width < 450px) {
   #descripcionCorta {
