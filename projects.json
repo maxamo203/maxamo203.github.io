@@ -22,7 +22,14 @@
     {
         "name": "Excel Automatico",
         "description": "Aplicacion hecha en Python con Tkinter que toma varias fotos de distintos momentos para compararlas",
-        "image": "imagesProjects/image.png",
+        "image": "imagesProjects/excel.png",
         "habilities": ["Excel"]
+    },
+    {
+        "name": "APLs Virtualizacion de HW",
+        "description": "Recopilacion de TPs de la materia Virtualizacion de Hardware, en la que se uso Bash, Powershell y C, para leer archivos, consultas a APIs, manejo de hilos, procesos e IPC",
+        "image": "imagesProjects/aplvh.png",
+        "link": "https://github.com/maxamo203/APLs-VH-1C2024/tree/main",
+        "habilities": ["Bash", "Powershell", "C", "Linux"]
     }
 ]
