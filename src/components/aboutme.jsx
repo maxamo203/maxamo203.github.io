@@ -3,7 +3,7 @@ export function About() {
         <article id="descripcion" className="section">
             <h3>'About me'</h3>
             <div>
-                <img src="/fotoperfil.png" alt="Maximo Bosch" />
+                <img src="/fotoperfil.webp" alt="Maximo Bosch" />
                 <p>
                     I am a full stack developer with a passion for learning and creating new things. I have experience in web development,
                     mobile development, and data analysis. I am always looking for new challenges and opportunities to grow.

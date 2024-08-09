@@ -315,6 +315,12 @@ a {
   cursor: pointer;
   text-shadow: black 0px 0px 5px;
 }
+.actionHabilityButton{
+  color: gray;
+  font-size: 1.5rem; 
+  cursor: pointer; 
+  align-self: center;
+}
 .habilityContainerfull{
   display: flex !important;
 }

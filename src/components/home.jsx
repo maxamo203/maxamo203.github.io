@@ -29,7 +29,7 @@ function Home() {
     return (
         <header>
             <div className="image-container">
-                <img src="mainimg.jpg" alt="Background Image" />
+                <img src="mainimg.webp" alt="Background Image" />
             </div>
             <div id="titulos">
                 <h1><pre>{name}</pre></h1>
